@@ -1,0 +1,1 @@
+SomiqBoard is a development board for a MENTOREL SomIQ family of system on modules. Modules are based on Texas Instruments ARM Cortex-A8 processors AM3517, DM37/AM37 and OMAP3.
